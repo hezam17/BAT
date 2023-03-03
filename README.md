@@ -1,3 +1,3 @@
 # BAT
 
-restarant
+restaurnt
